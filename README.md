@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadeSWD
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and PHP
 - 💞️ I’m looking to collaborate on programming robots
 - 📫 How to reach me arina121002@yandex.ru
 
