@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and PHP
 - 💞️ I’m looking to collaborate on programming robots
-- 📫 How to reach me arina121002@yandex.ru
+- 📫 How to reach me seawolfy60@gmail.com
 
 <!---
 ShadeSWD/ShadeSWD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
